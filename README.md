@@ -3,7 +3,7 @@
 A simple Weather Application built using React and OpenWeather API.
 
 ## 🔗 Live Demo
-https://weather-app.vercel.app
+[https://weather-app.vercel.app](https://weather-getinfo-app-phi.vercel.app/)
 
 ## 🚀 Features
 - Search weather by city
